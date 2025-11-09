@@ -5,11 +5,15 @@ It allows users to vote for candidates, prevents duplicate voting, and displays 
 
 ## 🚀 Features
 
-1.Register and login voters (optional authentication module)
-2.Cast votes for available candidates
-3.Prevent multiple votes by the same user
-4.Real-time vote updates
-5.Simple and responsive interface
+1. Register and login voters (optional authentication module)
+
+2. Cast votes for available candidates
+
+3. Prevent multiple votes by the same user
+
+4. Real-time vote updates
+
+5. Simple and responsive interface
 
 ## Step 1: Start the Metro Server
 
